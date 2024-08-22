@@ -1,0 +1,51 @@
+body{
+
+    background-color:rgb(236, 236, 229);
+    backface-visibility: visible;
+    display:flex;
+    text-align: center;
+    justify-content: center;
+
+
+}
+
+header {
+
+    text-align:center;
+
+}
+
+.languages{
+    color:rgb(51, 61, 150);
+    text-align: center;
+    list-style:none;
+    border: 5px black outset;
+    background-color: rgb(226, 127, 93);
+    text-align: center;
+
+    text-decoration:none;
+    padding: 0%;
+}
+
+.a{
+
+    color:white;
+    background-color: rgb(198, 238, 88);
+    border: 5px black outset;
+
+}
+.d
+{
+    color:chocolate;
+    text-align: center;
+    border: 5px black outset;
+
+
+}
+.b
+{
+    border: 1px solid rgb(122, 43, 43);
+    justify-content:last baseline;
+    width: 800px;
+
+}
